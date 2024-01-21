@@ -33,7 +33,7 @@
     "verify:goerli:showURL": "ts-node src/showGoerliProxyVerificationURLs.ts"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "v4.3.0-rc.0",
+    "@openzeppelin/contracts": "v4.9.3",
     "@openzeppelin/hardhat-defender": "^1.8.1",
     "child-process-promise": "^2.2.1",
     "hardhat-defender": "^1.0.1",
